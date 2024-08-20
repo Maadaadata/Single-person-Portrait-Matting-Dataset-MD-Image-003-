@@ -24,7 +24,7 @@ Our "Single-person Portrait Matting Dataset" is a pivotal resource for�
 
 Since 2015, maadaa.ai has been dedicated to delivering specialized AI data services. Our key offerings include:
 
-*   **Data Collecti**Segmentation and Key Points of Human Body (MD-Image-053)**on**: Comprehensive data gathering tailored to your needs.
+*   **Data Collection**: Comprehensive data gathering tailored to your needs.
     
 *   **Data Annotation**: High-quality annotation services for precise data labeling.
     
